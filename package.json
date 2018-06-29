@@ -1,0 +1,30 @@
+{
+  "name": "tasksort",
+  "version": "0.1.0",
+  "description": "Heap based incremental sorting algortihm.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymac-2/tasksort.git"
+  },
+  "keywords": [
+    "task",
+    "sort",
+    "heap",
+    "game",
+    "todo"
+  ],
+  "author": "Andrew Pritchard",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/andymac-2/tasksort/issues"
+  },
+  "homepage": "https://github.com/andymac-2/tasksort#readme",
+  "devDependencies": {
+    "webpack": "^4.10.0",
+    "webpack-cli": "^2.1.4"
+  }
+}
